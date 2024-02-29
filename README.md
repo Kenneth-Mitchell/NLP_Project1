@@ -1,1 +1,1 @@
-# I dont know
+[test.ipynb](test.ipynb) shows what we have done so far. It implements the [frame extraction package](https://github.com/chanind/frame-semantic-transformer) and shows how to use it. It also loads the [semeval task C dataset](subtaskC_dev_data.csv) and shows how to access the sentences.
